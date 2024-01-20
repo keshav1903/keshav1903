@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @keshav1903
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+0-0
 
 <!---
 keshav1903/keshav1903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
